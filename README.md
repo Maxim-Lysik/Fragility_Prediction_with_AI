@@ -5,4 +5,4 @@ Fragility_Prediction_with_AI is a project focused on the use of artificial intel
 The project leverages real-world data from the publicly available GSTRIDE database: https://zenodo.org/records/6883292
 . It includes preprocessing of clinical and sensor data, training of machine learning models (including XGBoost for binary and multi-class classification), and visualizations for model evaluation and interpretation.
 
-This repository can be used as a reference for AI-based frailty prediction, and as a foundation for further research in geriatric health analytics.
+This repository can be used as a reference for AI-based frailty prediction, and as a foundation for further research in geriatric health analytics. 
