@@ -1,4 +1,4 @@
-# Fragility_Prediction_with_AI
+# Fragility_Prediction_with_AI 
 
 **Fragility_Prediction_with_AI** is an advanced AI-driven project designed to detect and quantify frailty in older adults, a critical factor in geriatric health management. By leveraging state-of-the-art machine learning techniques, this project provides accurate predictions of both the presence and severity of frailty, helping healthcare professionals make informed decisions and prioritize interventions.
 
