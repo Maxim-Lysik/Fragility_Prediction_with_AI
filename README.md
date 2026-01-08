@@ -22,6 +22,6 @@ Frailty in older adults significantly increases the risk of adverse health outco
 
 ---
 
-This repository is ideal for AI enthusiasts, data scientists, and healthcare researchers interested in practical applications of machine learning in geriatric care. It showcases the complete workflow from raw data to actionable insights, emphasizing both predictive performance and interpretability.
+This repository is ideal for AI enthusiasts, data scientists, and healthcare researchers interested in practical applications of machine learning in geriatric care. It showcases the complete workflow from raw data to actionable insights, emphasizing both predictive performance and interpretability. 
 
 
