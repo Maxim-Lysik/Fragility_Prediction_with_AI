@@ -18,7 +18,7 @@ Frailty in older adults significantly increases the risk of adverse health outco
 - **Programming & Data Handling:** Python, Pandas, NumPy  
 - **Predictive Modeling:** XGBoost, Multi-Layer Perceptron (MLP), Logistic Regression, Neural Networks  
 - **Visualization & Analysis:** Matplotlib, Seaborn  
-- **Machine Learning Utilities:** Scikit-learn for preprocessing, evaluation, and performance metrics
+- **Machine Learning Utilities:** Scikit-learn for preprocessing, evaluation, and performance metrics 
 
 ---
 
